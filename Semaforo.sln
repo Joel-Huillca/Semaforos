@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Semaforo", "Semaforo\Semaforo.vcxproj", "{FE25E299-63F8-4FF5-B219-73CD530E946F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Debug|x64.ActiveCfg = Debug|x64
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Debug|x64.Build.0 = Debug|x64
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Debug|x86.ActiveCfg = Debug|Win32
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Debug|x86.Build.0 = Debug|Win32
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Release|x64.ActiveCfg = Release|x64
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Release|x64.Build.0 = Release|x64
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Release|x86.ActiveCfg = Release|Win32
+		{FE25E299-63F8-4FF5-B219-73CD530E946F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {09A93BED-47BB-4E34-AE90-07FEE4C4DDBC}
+	EndGlobalSection
+EndGlobal
