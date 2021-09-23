@@ -1,2 +1,2 @@
-# sem-foros
+# semaforos
 Universidad : Sistemas Embebidos
