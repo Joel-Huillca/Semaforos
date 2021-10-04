@@ -10,3 +10,4 @@ Se presenta un circuito eléctrico compuesto de sensores y actuadores, que ilust
 ### Enlace directo:
 https://www.tinkercad.com/things/8dMy3vxmFep
 
+
